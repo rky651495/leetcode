@@ -9,7 +9,7 @@ import java.util.Map;
  * 3.无重复字符的最长字符串
  * @Link https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
  */
-public class LeetCodeThirdProblem {
+public class LeetCode3Problem {
 
     private static String td = "abba";
 
